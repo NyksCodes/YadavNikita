@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   top: 0;
   height: 100vh;
-/*  z-index: -1; /* Ensure it stays behind other elements */
+z-index: -1; /* Ensure it stays behind other elements */
 }
 
 #contacts {
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   top: 0;
   height: 100vh;
-  /*z-index: -1; /* Ensure it stays behind other elements */
+  z-index: -1; /* Ensure it stays behind other elements */
 
 } 
 /*--------------------------------------------------------------
