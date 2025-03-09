@@ -35,11 +35,11 @@ body::before {
 }
 
 a {
-  color: #04611a;
+  color: #12d640;
 }
 
 a:hover {
-  color: #04611a;
+  color: #12d640;
   text-decoration: none;
 }
 
@@ -105,7 +105,7 @@ z-index: -1; /* Ensure it stays behind other elements */
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #04611a;
+  color: #12d640;
 }
 
 #header h2 span {
@@ -207,7 +207,7 @@ z-index: -1; /* Ensure it stays behind other elements */
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #04611a;
+  color: #12d640;
   text-decoration: none;
 }
 
@@ -752,7 +752,7 @@ section .container {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #04611a;
+  color: #12d640;
 }
 
 /*--------------------------------------------------------------
@@ -961,7 +961,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #04611a;
+  color: #12d640;
 }
 
 .contact .php-email-form {
