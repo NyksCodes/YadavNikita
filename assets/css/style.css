@@ -110,7 +110,7 @@ z-index: -1; /* Ensure it stays behind other elements */
 
 #header h2 span {
   color: #ffc107;
-  border-bottom: 2px solid #04611a;
+  border-bottom: 2px solid #1c7d32;
   padding-bottom: 6px;
 }
 
@@ -139,7 +139,7 @@ z-index: -1; /* Ensure it stays behind other elements */
 }
 
 #header .social-links a:hover {
-  background: #04611a;
+  background: #1c7d32;
 }
 
 @media (max-width: 992px) {
@@ -752,7 +752,7 @@ section .container {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #12d640;
+  color: #04611a;
 }
 
 /*--------------------------------------------------------------
@@ -961,7 +961,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #12d640;
+  color: #04611a;
 }
 
 .contact .php-email-form {
