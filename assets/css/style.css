@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b; /* Ensure this is applied */
+  background: url('../img/background/Env.jpeg') no-repeat center center fixed; /* Ensure this is applied */
   background-size: cover;
   left: 0;
   right: 0;
@@ -45,6 +45,30 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
+}
+
+#About {
+ 
+  background: url('../img/background/bg7.jpg') no-repeat center center fixed; /* Ensure this is applied */
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  z-index: -1; /* Ensure it stays behind other elements */
+
+}
+
+#Education {
+ 
+  background: url('../img/background/2.jpg') no-repeat center center fixed; /* Ensure this is applied */
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  z-index: -1; /* Ensure it stays behind other elements */
+
 }
 
 /*--------------------------------------------------------------
