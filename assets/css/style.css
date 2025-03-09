@@ -105,12 +105,12 @@ z-index: -1; /* Ensure it stays behind other elements */
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #12d640;
+  color: #04611a;
 }
 
 #header h2 span {
   color: #ffc107;
-  border-bottom: 2px solid #1c7d32;
+  border-bottom: 2px solid #04611a;
   padding-bottom: 6px;
 }
 
@@ -139,7 +139,7 @@ z-index: -1; /* Ensure it stays behind other elements */
 }
 
 #header .social-links a:hover {
-  background: #1c7d32;
+  background: #04611a;
 }
 
 @media (max-width: 992px) {
@@ -207,7 +207,7 @@ z-index: -1; /* Ensure it stays behind other elements */
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #12d640;
+  color: #04611a;
   text-decoration: none;
 }
 
